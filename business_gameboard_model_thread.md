@@ -1,6 +1,6 @@
 # Business Gameboard Model --- Course, Webinar, Bonuses & Marketing Assets
 
-**Project owner:** Siddharth\
+**Project owner:** Niladri Bihari Nayak
 **Core topic:** Business as a game\
 **Audience:** Entrepreneurs, solopreneurs, coaches, consultants, experts, course creators, and community builders\
 **Core idea:** Turn a business's customer journey into a game-like experience where customers play, progress, complete missions, earn recognition, and keep coming back.
